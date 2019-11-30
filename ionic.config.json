@@ -1,0 +1,7 @@
+{
+  "name": "fameories",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
